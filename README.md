@@ -2,6 +2,8 @@
 
 This repository contains some solutions from [codewars](codewars.com).
 
+[Check my profile](https://www.codewars.com/users/joaomarcelofa).
+
 All the solutions of this repository are listed above.
 
 ---
