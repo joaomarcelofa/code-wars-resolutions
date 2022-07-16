@@ -21,3 +21,10 @@ Solution: https://github.com/joaomarcelofa/code-wars-resolutions/blob/master/Sim
 Problem description: https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39/train/javascript
 
 Solution: https://github.com/joaomarcelofa/code-wars-resolutions/tree/master/Calculating%20with%20Functions
+
+--
+
+## Strings mix
+
+Problem description: https://www.codewars.com/kata/5629db57620258aa9d000014/train/go
+Solution: https://github.com/joaomarcelofa/code-wars-resolutions/tree/master/StringsMix
