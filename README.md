@@ -28,3 +28,10 @@ Solution: https://github.com/joaomarcelofa/code-wars-resolutions/tree/master/Cal
 
 Problem description: https://www.codewars.com/kata/5629db57620258aa9d000014/train/go
 Solution: https://github.com/joaomarcelofa/code-wars-resolutions/tree/master/StringsMix
+
+--
+
+## Moving Zeros To the End
+
+Problem description: https://www.codewars.com/kata/52597aa56021e91c93000cb0/go
+Solution: https://github.com/joaomarcelofa/code-wars-resolutions/tree/master/MoveZeros
